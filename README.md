@@ -1,5 +1,7 @@
 # Breast Cancer Detection Web Application
 
+<img src="output.jpeg" >
+
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Render)
 
 
